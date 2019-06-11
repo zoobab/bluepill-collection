@@ -4,6 +4,8 @@ A collection of binary firmwares to put on your STM32 bluepill
 ## Programmers
 
 * [FASTUSBasp](https://github.com/amitesh-singh/FASTUSBasp): AVR programmer with USB support
+* [stm32f1-ccprog](https://github.com/hwhw/stm32f1-ccprog): Texas Instruments CC253x programmer
+* [blue_flash](https://github.com/ivanovp/blue_flash): SPI NOR flasher
 
 ## JTAG probe
 
