@@ -23,6 +23,7 @@ A collection of binary firmwares to put on your STM32 bluepill
 
 ## Ideas
 
+* Implement a firmware switcher
 * Compile a list of binary firmwares (URLs to start with)
 * Candidates:
 1. SimpleSerial
