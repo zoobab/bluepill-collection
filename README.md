@@ -17,6 +17,10 @@ A collection of binary firmwares to put on your STM32 bluepill
 * [pill_serial](https://github.com/satoshinm/pill_serial): Triple USB CDC
 * [stm32-ch340](https://github.com/vdm-dev/stm32-ch340): CH340 emulator
 
+## Vintage computing
+
+ * [Greaseweazle](https://www.retrocomputers.online/greaseweazle-flux-level-floppy-disk-tool/): Flux level floppy disk tool
+
 ## Ideas
 
 * Compile a list of binary firmwares (URLs to start with)
